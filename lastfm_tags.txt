@@ -1,0 +1,843 @@
+rock	101071
+pop	69159
+alternative	55777
+indie	48175
+electronic	46270
+female vocalists	42565
+favorites	39921
+Love	34901
+dance	33618
+00s	31432
+alternative rock	30334
+jazz	30152
+beautiful	29421
+singer-songwriter	27910
+metal	27430
+chillout	27276
+male vocalists	27269
+Awesome	26248
+classic rock	25771
+soul	24702
+indie rock	24619
+Mellow	24356
+electronica	24087
+80s	23492
+folk	23492
+british	23033
+90s	23018
+chill	22746
+american	22694
+instrumental	21837
+punk	21203
+oldies	20979
+seen live	20705
+blues	20474
+hard rock	20241
+cool	19581
+Favorite	18864
+ambient	17982
+acoustic	17889
+experimental	17764
+Favourites	17722
+female vocalist	17328
+guitar	17302
+Hip-Hop	16712
+70s	16075
+party	15320
+country	15197
+easy listening	15076
+sexy	14706
+catchy	14490
+funk	14189
+favourite	14167
+electro	14041
+heavy metal	13830
+Progressive rock	13406
+60s	13316
+fun	13202
+rnb	13192
+indie pop	13026
+Soundtrack	12899
+loved	12483
+sad	12425
+House	12404
+favorite songs	12392
+happy	12291
+punk rock	12251
+piano	12237
+psychedelic	12057
+hip hop	12049
+male vocalist	11921
+classic	11913
+pop rock	11863
+downtempo	11466
+trance	11434
+melancholy	11398
+female	11374
+amazing	11270
+hardcore	11223
+rap	11157
+lounge	11113
+cover	10694
+techno	10679
+reggae	10610
+heard on Pandora	10470
+relax	10205
+new wave	10202
+relaxing	9751
+upbeat	9501
+good	9475
+romantic	9327
+epic	9279
+Ballad	9250
+melancholic	9038
+death metal	9014
+summer	8820
+USA	8725
+2000s	8671
+Favourite Songs	8661
+emo	8622
+UK	8616
+funky	8552
+Love it	8521
+drjazzmrfunkmusic	8364
+post-punk	8161
+world	8057
+soft rock	8017
+female vocals	7950
+nice	7921
+britpop	7834
+blues rock	7825
+atmospheric	7799
+smooth	7776
+latin	7759
+rock n roll	7631
+Progressive	7627
+german	7566
+great	7533
+trip-hop	7462
+sweet	7422
+Disco	7358
+dark	7282
+77davez-all-tracks	7278
+love songs	7223
+industrial	7214
+rhythm and blues	6993
+memories	6923
+Dreamy	6854
+best	6845
+live	6804
+synthpop	6740
+love at first listen	6629
+FUCKING AWESOME	6626
+slow	6566
+vocal	6540
+english	6469
+french	6389
+Progressive metal	6377
+covers	6333
+lovely	6302
+Good Stuff	6254
+Energetic	6221
+fav	6155
+spanish	6138
+groovy	6026
+Smooth Jazz	6013
+folk rock	5986
+soft	5953
+Gothic	5736
+metalcore	5703
+swedish	5669
+thrash metal	5667
+Psychedelic Rock	5535
+club	5463
+title is a full sentence	5398
+friendsofthekingofrummelpop	5388
+ska	5365
+americana	5336
+Canadian	5332
+Fusion	5280
+christian	5238
+great song	5115
+50s	5011
+nostalgia	4902
+Rock and Roll	4898
+melodic	4866
+groove	4835
+new age	4800
+great lyrics	4763
+Alternative  Punk	4751
+brilliant	4736
+Driving	4729
+black metal	4694
+electropop	4681
+Uplifting	4669
+r&b	4579
+Power metal	4572
+old school	4534
+calm	4532
+minimal	4519
+feel good	4487
+Grunge	4485
+2008	4459
+pop punk	4422
+RB	4384
+dub	4383
+love song	4364
+post-rock	4346
+emotional	4268
+Melodic Death Metal	4247
+Garage Rock	4244
+jazzy	4239
+acid jazz	4199
+alternative metal	4152
+idm	4136
+urban	4115
+easy	4109
+perfect	4062
+synth pop	4056
+funny	4034
+Alt-country	4028
+2009	4022
+2007	4011
+female vocal	4001
+male vocals	3964
+ethereal	3961
+all the best	3960
+finnish	3958
+swing	3935
+deutsch	3930
+Gothic Metal	3922
+chill out	3874
+my favorite	3836
+top 40	3827
+post-hardcore	3800
+progressive trance	3766
+hiphop	3730
+political	3723
+cute	3712
+glam rock	3703
+1980s	3686
+the best	3644
+italian	3635
+<3	3595
+rockabilly	3594
+Retro	3564
+interesting	3543
+Classical	3537
+Pop-Rock	3535
+metro downtempo	3486
+Avant-Garde	3483
+Lo-Fi	3481
+other	3474
+haunting	3448
+1990s	3446
+motown	3443
+melodic metal	3396
+doom metal	3378
+bass	3364
+Guilty Pleasures	3344
+shoegaze	3337
+Gothic Rock	3319
+irish	3319
+heavy	3308
+sensual	3306
+My pop music	3303
+songs I absolutely love	3293
+singer songwriter	3277
+80's	3267
+classic country	3262
+screamo	3258
+alt rock	3242
+My Favorites	3235
+guilty pleasure	3227
+christmas	3217
+darkwave	3203
+nu jazz	3193
+celtic	3192
+sex	3186
+garage	3179
+Nu Metal	3161
+r and b	3132
+guitar virtuoso	3119
+Masterpiece	3108
+dancehall	3096
+World Music	3087
+genius	3087
+noise	3059
+saxophone	3051
+Favorite Artists	3033
+indietronica	3028
+feelgood	3024
+new	3020
+folk-rock	3017
+pretty	3008
+art rock	2988
+1970s	2983
+adult contemporary	2980
+breakbeat	2970
+Drum and bass	2961
+intense	2944
+Radiotsar approved	2941
+tantotempotaste	2939
+synth	2938
+Stoner Rock	2927
+power pop	2924
+hardcore punk	2907
+dream pop	2896
+Faves	2894
+trip hop	2894
+grindcore	2892
+2005	2881
+brasil	2880
+christian rock	2877
+vocal trance	2873
+i am a party girl here is my soundtrack	2872
+favs	2859
+comedy	2847
+ebm	2839
+ballads	2817
+vocal jazz	2817
+goth	2812
+Old School soul	2810
+poprock	2805
+powerful	2789
+stream	2785
+Like	2777
+remix	2763
+close harmony	2736
+Southern Rock	2723
+Progressive House	2710
+new york	2709
+California	2699
+jazz fusion	2693
+hot	2689
+symphonic metal	2682
+1960s	2678
+4	2675
+2006	2673
+All time favourites	2662
+20th Century	2660
+nostalgic	2653
+indie folk	2650
+energy	2621
+australian	2611
+quirky	2606
+freedom	2594
+scandinavian	2564
+moody	2549
+Neo-Soul	2542
+gospel	2504
+deep house	2499
+eurodance	2495
+jazz vocal	2484
+male	2483
+i feel good	2460
+Bittersweet	2458
+rockin	2443
+industrial metal	2441
+best songs ever	2438
+soulful	2437
+norwegian	2428
+night	2413
+good shit	2388
+Scottish	2379
+lyrics	2374
+vocals	2369
+angry	2361
+soothing	2361
+brazilian	2359
+major key tonality	2353
+favorite by this singer	2322
+england	2320
+work	2313
+UK top 40	2308
+I like	2307
+underground hip-hop	2301
+chilled	2299
+Brutal Death Metal	2298
+drums	2281
+Female Voices	2278
+download	2278
+slow jams	2273
+sing along	2269
+Post punk	2254
+over 5 minutes long	2243
+3-star	2234
+1	2231
+good music	2226
+2003	2219
+bluegrass	2215
+RockPop	2207
+my music	2203
+roots reggae	2200
+acclaimed music top 3000	2196
+trippy	2159
+electro house	2139
+salsa	2135
+roots	2133
+crossover	2119
+Soundtrack Of My Life	2104
+good song	2102
+audioase	2101
+chanson francaise	2096
+2004	2095
+Electroclash	2089
+late night	2086
+2giveme5	2080
+handclaps	2075
+francais	2073
+Dream	2060
+thrash	2055
+Sweden	2054
+gute laune	2052
+great songs	2040
+beats	2039
+NYC	2036
+names	2030
+Sleep	2024
+Experimental Rock	2019
+quiet	2016
+minimal techno	2015
+strings	2015
+GH10	2003
+speed metal	2000
+psytrance	1995
+brain2brain	1993
+yeah	1992
+classics	1991
+classic soul	1988
+music	1987
+beat	1971
+jazz piano	1971
+hair metal	1967
+Soundtracks	1965
+hypnotic	1963
+aitch	1954
+prda	1950
+powerpop	1947
+Torquemada	1945
+morning	1943
+best song ever	1940
+Sentimental	1937
+deep	1920
+weird	1920
+brit pop	1917
+wow	1917
+2002	1912
+winter	1909
+personal favourites	1903
+vocalization	1902
+60's	1900
+favouritestreamable	1894
+breaks	1877
+Gangsta Rap	1872
+malloy2000 playlist - top songs - classical to metal	1859
+under two minutes	1835
+emocore	1833
+Awesome Guitar Jams	1832
+Bossa Nova	1831
+dark ambient	1827
+Brems Tagg radio	1825
+post-grunge	1824
+legend	1819
+70's	1803
+france	1790
+tech house	1787
+2001	1785
+british rock	1780
+loved tracks	1778
+mpb	1776
+fast	1773
+african	1771
+contemporary jazz	1768
+peaceful	1758
+Tag	1755
+annymix	1748
+Rock  Roll	1744
+uplifting trance	1743
+blues-rock	1736
+northern soul	1726
+2010	1724
+death	1723
+allboutguitar	1722
+super	1720
+a subtle use of vocal harmony	1712
+fH Projex	1711
+Excellent tune	1705
+2000	1688
+underground hip hop	1684
+chanson	1681
+5	1679
+Female fronted metal	1676
+twee	1676
+positive	1675
+Technical Death Metal	1672
+country rock	1669
+Sousaphonic AOTM 201102	1664
+violin	1663
+Drum n Bass	1659
+latino	1658
+top artists	1655
+check out	1650
+all time favorites	1649
+space rock	1649
+yes	1647
+90s Rock	1634
+f	1633
+glam	1629
+trumpet	1628
+post rock	1626
+best songs of the 00s	1623
+latin pop	1623
+brit rock	1620
+worship	1619
+favourite tracks	1615
+Classic Blues	1613
+Solomusika-Loved	1612
+san francisco	1607
+addictive	1605
+noise rock	1603
+Black	1595
+dance pop	1573
+quiet storm	1570
+aggressive	1567
+Jam	1566
+alternative pop	1564
+soul and rnb classics	1562
+Berlin	1557
+Electro Pop	1545
+female artists	1538
+finland	1535
+attitude	1534
+somafm	1533
+makes me happy	1530
+ok	1528
+test	1520
+melodic rock	1517
+slgdmbestof	1516
+dutch	1515
+favorite song	1514
+folk metal	1514
+songs i love	1513
+lovedbybeyondwithin	1510
+Rock en Espanol	1509
+albums I own	1508
+all time faves	1503
+british i like	1502
+damned good	1498
+underrated	1498
+modern rock	1496
+japanese	1495
+Hard	1494
+Nu-metal	1494
+deathcore	1494
+extensive vamping	1494
+Radio	1489
+cover songs	1489
+heard on last-fm	1488
+Perfection	1487
+heartbreak	1484
+dj	1482
+Jills Station	1480
+sound storm	1479
+de todo mio favoritos	1477
+west coast	1477
+germany	1470
+ska punk	1470
+80s Pop	1469
+Big Band	1467
+crazy	1462
+doo wop	1455
+sixties	1455
+electro-pop	1454
+industrial rock	1452
+inspirational	1452
+out of our heads	1452
+favorite tracks	1450
+top	1445
+prog	1442
+9 lbs hammer	1441
+Neo Soul	1438
+High School	1434
+adrien wayne	1426
+avantgarde	1426
+piano rock	1426
+girl power	1423
+Favorite Bands	1422
+delta blues	1421
+melodic hardcore	1418
+4 Stars	1417
+acoustic guitar	1417
+lacrimaindarkness	1412
+me	1412
+nu-jazz	1412
+brazil	1411
+soul tag	1409
+finnish metal	1408
+Flamenco	1402
+jamaica	1402
+downbeat	1382
+3 stars	1379
+alt country	1379
+seattle	1379
+stoner	1377
+bouncy	1375
+rock ballad	1371
+spoken word	1369
+ethnic	1367
+like it	1366
+I love this song	1360
+dnb	1357
+Glam Metal	1353
+fon	1353
+kick ass	1353
+Suomi	1352
+eighties	1351
+big beat	1348
+depressing	1348
+I want back to the 80s	1347
+drugs	1347
+good beat	1346
+diva	1343
+131	1342
+Swedish Metal	1342
+ElectronicaDance	1339
+dark electro	1339
+canada	1338
+glitch	1338
+wonderful	1337
+crowe	1336
+danceable	1336
+animals	1335
+a vocal-centric aesthetic	1330
+80s rock	1326
+excellent	1326
+classic metal	1322
+rex ferric faves	1319
+slgdm	1319
+gorgeous	1318
+samba	1316
+lush	1314
+spiritual	1312
+Basically Bass	1311
+dramatic	1311
+4 Star	1309
+1950s	1308
+new romantic	1299
+polish	1299
+Pop-punk	1298
+1995	1286
+1997	1282
+africa	1282
+dubstep	1277
+speed	1275
+Symphonic Rock	1273
+contemporary classical	1273
+temazo	1272
+underground	1272
+loneliness after dusk	1271
+golden oldies	1268
+inspiring	1266
+progressiv	1266
+love to death	1265
+songwriter	1264
+stonesoup	1264
+dance-pop	1257
+jazz funk	1253
+poetry	1248
+suomirock	1247
+Fave	1244
+gh 3	1241
+instrumental rock	1240
+mod	1238
+lovesongs	1232
+power	1231
+magic	1229
+rain	1229
+blingtacular	1223
+life	1220
+60s Gold	1219
+Great Lyricists	1219
+Workout	1219
+post hardcore	1217
+old favorites	1215
+buy	1212
+my gang 09	1211
+london	1206
+space	1206
+1996	1201
+Sommer	1199
+halloween	1199
+linedance	1198
+BeatbabeBop selection	1197
+My Favourites	1197
+loud	1196
+Makes Me Smile	1194
+q3	1194
+rapcore	1194
+Surf	1193
+ninja tune	1192
+warm	1190
+I Like It	1189
+metro electronica	1189
+harmonica	1188
+musicspirit	1188
+newbest	1186
+special	1184
+Spanish Rock	1182
+relaxed	1180
+psychobilly	1176
+texas	1175
+top 2000	1175
+3	1172
+humor	1171
+Karlsruhe	1170
+minor key tonality	1168
+21st century	1167
+light	1166
+old skool	1165
+italiana	1164
+lol	1160
+silent intensity	1159
+Miscellaneous	1157
+Metro Jazz	1155
+cinematic	1154
+50's	1149
+jazz instrumental	1149
+Contemporary Gospel Tag	1148
+Deutschrock	1148
+Guitar Solo	1148
+melodic black metal	1145
+3 star	1144
+Calming	1144
+best songs of the 80s	1144
+slordig	1143
+sunny	1142
+viking metal	1142
+geil	1138
+us	1138
+Rainy Day	1136
+1999	1133
+Doom	1133
+blue	1133
+halftoned singles club	1133
+horns	1133
+essentials	1132
+rhythum and blues tag	1129
+Rave	1128
+metallis	1128
+Acoustic Rock	1125
+arena rock	1122
+Power ballad	1120
+prog rock	1120
+vocal house	1117
+world fusion	1117
+quarkzangsun v1	1116
+romance	1116
+Instrumental Jazz Tag	1111
+singer	1111
+streamable track wants	1110
+1994	1109
+collection	1109
+Ion B radio	1108
+SuomiPop	1108
+badass	1106
+ik ben	1106
+punkrock	1106
+10s	1105
+Sludge	1104
+LOVE LOVE LOVE	1103
+Oi	1103
+goa	1103
+Romantica	1101
+repetitive melodic phrasing	1101
+Latin Rock	1100
+contemporary christian	1100
+dance party	1099
+party music	1097
+metro funky	1096
+album rock	1095
+drone	1095
+Jazz Rock	1089
+90's	1088
+xmas	1087
+goth rock	1083
+emusic	1079
+gotanygoodmusic	1078
+Meditation	1077
+i love it	1076
+cool jazz	1073
+Playful	1072
+Espanol	1068
+brutal	1067
+most loved	1067
+female singers	1066
+emotive	1064
+malesinger	1062
+spring	1062
+mid	1061
+awesomeness	1060
+celeste nostalgia	1059
+mild rhythmic syncopation	1058
+billboard number ones	1056
+latin jazz	1056
+acordes geniales	1055
+amayzes loved	1054
+favorite by this group	1054
+detroit	1053
+melodic trance	1053
+Reflective	1052
+solx	1050
+ost	1048
+DJPMan-loved-tracks	1047
+proto-punk	1045
+cover song	1044
+singalong	1042
+popular	1039
+european	1038
+Britrock	1036
+Gitarrenunterricht	1036
+Punk Favorites	1036
+Guitar Hero	1035
+east coast rap	1035
+Adult Alternative	1034
+Pop Life	1031
+ls	1029
+bebop	1028
+1992	1025
+male vocal	1025
+music to fall asleep to	1025
+sunday	1025
+1993	1024
+dancing	1023
+sleek	1023
+rocksteady	1022
+1998	1018
+progressive death metal	1017
+Atmosphere	1016
+Dancemania	1015
+anthem	1013
+best of 2008	1013
+flute	1012
+good mood	1011
+Alternate Rock	1007
+leapsandloved	1007
+sax	1004
+eddie	1003
+psychill	1001
+Acid	996
+favoritas	994
+web-found	994
+ragga	993
+favourite artists	991
+new rave	991
+teen pop	991
+best of 2009	990
+percussion	989
+catchy as hell	983
+critically acclaimed song	981
+a	980
+breakup	978
+british invasion	978
+
